@@ -1,0 +1,5 @@
+n = input('Frase: ')
+n = n.upper().replace(' ', '').strip()
+print(f"Quantas vezes se repete a letra A: {n.count('A')}")
+print(f"Aparece primeiramente na posição: {n.find('A')}")
+print(f"Aparece por último na posição: {n.rfind('A')}")
