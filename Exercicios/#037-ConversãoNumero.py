@@ -7,4 +7,4 @@ elif op == 2 :
 elif op ==3 :
     print(f'O número {num} em Hexadecimal é {hex(num)}')
 else:
-    print('Burro')
+    print("Opcao invalida!\n")

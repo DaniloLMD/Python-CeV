@@ -1,4 +1,4 @@
-tupla = ('arnaldo', 'geraldo', 'aza', 'pyr')
+tupla = ('danilo', 'enzo', 'valentina', 'cnsnt')
 v = 0
 for c in range(0 , len(tupla)):
     print(f'Vogais em {tupla[c]}: ',end='')

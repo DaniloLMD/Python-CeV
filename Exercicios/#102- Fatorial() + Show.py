@@ -1,4 +1,4 @@
-help(bool)
+
 def fatorial(x):
     fat = 1
     for c in range(x, 0, -1):
@@ -8,7 +8,7 @@ def fatorial(x):
                 print(f'{c} x ',end='')
             else:
                  print(f'{c} = {fat}')
-        else:
+        elif (c == 1):
            print(f'Resultado: {fat}')
 
 num = int(input('Número: '))

@@ -1,6 +1,6 @@
 c50 = c20 = c10 = c1 = 0
 print(f'''{'~~'*25}
-{'BANCO DO PIR':-^50}
+{'BANCO DO DANILO':-^50}
 {'~~'*25}''')
 dindin = int(input('Valor a ser sacado: R$'))
 print('~~'*25)

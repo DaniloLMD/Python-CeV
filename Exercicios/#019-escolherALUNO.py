@@ -24,3 +24,4 @@ elif nome == lista[len(ordem)- 1]:
     print('Que azar! você ficou em último.')
 else:
     print(f'Você ficou na posição ')
+#incompleto
